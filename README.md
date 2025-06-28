@@ -16,7 +16,7 @@ Do not redistribute commercially or bundle them with illegal game content.
 
 ---
 
-## 📜 License
+## License
 
 **No license is granted for commercial or derivative use.**  
 All assets are shared **as-is, for personal use only**.
@@ -25,6 +25,6 @@ If you are the author of the base framework and want this removed or credited di
 
 ---
 
-## ✍️ Author
+## Author
 
 **Theodor Andrei** – Custom skin modder & hobbyist
